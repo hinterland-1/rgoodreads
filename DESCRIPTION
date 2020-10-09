@@ -1,8 +1,8 @@
-Package: rgoodreads
+Package: rgoodreads2
 Type: Package
 Title: Client for the Goodreads API
 Version: 0.1
-Date: 2016-02-23
+Date: 2020-08-10
 Author: Sagun Pai
 Maintainer: <sagung.pai@gmail.com>
 Description: This R package acts as a wrapper for the read-only features of the Goodreads API with the ability to retrieve information on books, authors, users, reviews, etc. so that they can be analyzed in R.
@@ -14,6 +14,6 @@ Imports:
     XML,
     RCurl
 LazyData: TRUE
-URL: http://github.com/famguy/rgoodreads
+URL: http://github.com/hinterland-1/rgoodreads
 BugReports: http://github.com/famguy/rgoodreads/issues
 RoxygenNote: 5.0.1
